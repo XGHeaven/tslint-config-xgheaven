@@ -1,0 +1,20 @@
+{
+  "name": "@xgheaven/tslint-config-xgheaven",
+  "version": "0.1.0",
+  "description": "custom tslint config for xgheaven",
+  "main": "index.js",
+  "scripts": {
+    "play": "eslint demo.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:XGHeaven/tslint-config-xgheaven.git"
+  },
+  "author": "XGHeaven",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^9.3.0",
+    "tslint": "^5.9.1",
+    "typescript": "^2.6.2"
+  }
+}

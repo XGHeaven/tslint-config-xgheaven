@@ -1,0 +1,29 @@
+{
+    "extends": [
+        "tslint:recommended"
+    ],
+    "jsRules": {},
+    "rules": {
+        "semicolon": false,
+        "trailing-comma": [true, {
+            "multiline": "always",
+            "singleline": "never"
+        }],
+        "import-spacing": true,
+        "quotemark": [true, "single"],
+        "whitespace": [true,
+            "check-module", 
+            "check-branch",
+            "check-decl",
+            "check-operator",
+            "check-separator",
+            "check-type",
+            "check-typecast"
+        ],
+        "member-access": [true, "no-public"],
+
+        "interface-name": false,
+        "no-empty-interface": false
+    },
+    "rulesDirectory": []
+}

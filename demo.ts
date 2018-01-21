@@ -38,3 +38,5 @@ const objOrder2: {
     b: 1,
     c: 3,
 }
+
+const templateString = `${objOrder}`

@@ -21,7 +21,9 @@
             "check-typecast"
         ],
         "member-access": [true, "no-public"],
+        "object-literal-sort-keys": [true, "shorthand-first"],
 
+        "ban-types": false,
         "interface-name": false,
         "no-empty-interface": false
     },

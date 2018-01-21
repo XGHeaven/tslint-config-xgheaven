@@ -4,7 +4,7 @@
   "description": "custom tslint config for xgheaven",
   "main": "index.js",
   "scripts": {
-    "play": "eslint demo.ts"
+    "play": "tslint -p . demo.ts"
   },
   "repository": {
     "type": "git",

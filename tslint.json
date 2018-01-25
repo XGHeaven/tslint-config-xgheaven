@@ -23,6 +23,7 @@
         "member-access": [true, "no-public"],
         "object-literal-sort-keys": [true, "shorthand-first"],
         "no-invalid-template-strings": true,
+        "max-classes-per-file": [true, 1, "exclude-class-expressions"],
 
         "ban-types": false,
         "interface-name": false,

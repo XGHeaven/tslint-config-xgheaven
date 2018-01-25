@@ -40,3 +40,5 @@ const objOrder2: {
 }
 
 const templateString = `${objOrder}`
+
+const classTwoExp = class {}

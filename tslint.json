@@ -4,7 +4,7 @@
     ],
     "jsRules": {},
     "rules": {
-        "semicolon": false,
+        "semicolon": [true, "never"],
         "trailing-comma": [true, {
             "multiline": "always",
             "singleline": "never"

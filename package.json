@@ -10,6 +10,11 @@
     "type": "git",
     "url": "git@github.com:XGHeaven/tslint-config-xgheaven.git"
   },
+  "files": [
+    "tslint.json",
+    "index.js",
+    "package-lock.json"
+  ],
   "author": "XGHeaven",
   "license": "MIT",
   "devDependencies": {
